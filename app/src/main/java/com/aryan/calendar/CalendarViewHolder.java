@@ -1,4 +1,4 @@
-package com.aryan.calender;
+package com.aryan.calendar;
 
 import android.view.View;
 import android.widget.TextView;

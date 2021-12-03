@@ -1,4 +1,4 @@
-package com.aryan.calender;
+package com.aryan.calendar;
 
 import android.view.LayoutInflater;
 import android.view.View;

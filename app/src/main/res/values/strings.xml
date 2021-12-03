@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Simple Calender</string>
+    <string name="app_name">Simple Calendar</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="forward"><![CDATA[->]]></string>
 </resources>

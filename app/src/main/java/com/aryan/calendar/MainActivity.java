@@ -1,4 +1,4 @@
-package com.aryan.calender;
+package com.aryan.calendar;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;

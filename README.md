@@ -1,22 +1,22 @@
-# Simple Calender #
+# Simple Calendar #
 ----------------------------------------------------
-Simple Calender is an just another open-source Android Calender application written in java. 
+Simple Calendar is an just another open-source Android Calendar application written in java. 
 
 ## Features ##
 * Minimal & Clean
-* Fullfilles needs of a basic calender
+* Fullfilles needs of a basic calendar
 
 <p align="center">
-  <img src="assets/Calender.jpg">
+  <img src="assets/Calendar.jpg">
 </p>
 
-## Building Simple Calender ##
+## Building Simple Calendar ##
 ```
 ./gradlew :app:assembleRelease
 ```
 
 ## Credits ##
-* Simple Calender is licensed and distributed under **The GNU General Public License v3.0**
+* Simple Calendar is licensed and distributed under **The GNU General Public License v3.0**
 * This Project is Entirely Developed by 
   - [Aryan Sinha](https://github.com/techyminati)
 

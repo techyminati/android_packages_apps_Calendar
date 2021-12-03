@@ -1,4 +1,4 @@
-package com.aryan.calender;
+package com.aryan.calendar;
 
 import org.junit.Test;
 
